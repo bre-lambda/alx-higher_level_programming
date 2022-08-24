@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 #include "lists.h"
 /**
  * check_cycle - check whether a cycle exist in a linked list
