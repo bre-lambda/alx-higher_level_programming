@@ -1,4 +1,13 @@
 #!/usr/bin/python3
+''' module for Int class'''
+
+
+class int:
+
+    def __init__(self):
+        return 0
+
+
 '''Module for MyInt class.'''
 
 
